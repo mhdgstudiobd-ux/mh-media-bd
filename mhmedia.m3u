@@ -17,7 +17,36 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#fb:M3U_World_4K
 https://mtv.sunplex.live/MAASRANGA/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpUTKf0uZasQbbG_6Z_XNVQFEbQpqHoN8r1dF7PzFPQ&s=10" provider="fb:M3U_World_4K",Ekattor HD
 https://drk6xq0vhn.gpcdn.net/live/ekattor_tv_abr/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Deepto TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfx7Zg83-qrrOitF9NrXQVtIR--iA0Zw86m4Q-XYt1A&s=10" provider="fb:M3U_World_4K",Deepto TV HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4q8GYBeX_kh2JyAAEehqQiMrl0AKP9J7mWU9tpt2HquAHXGqUWwR4A&s" provider="fb:M3U_World_4K",Channel I HD
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUypntv8FMhPktoKOFZSoJ0aBuYmyxdcY4LNC8_Yojg&s=10" provider="fb:M3U_World_4K",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoQBDuQAMVQ7zUVMohdhG6BbVRdyo98QiCuH0Q-gt2pw&s=10" provider="fb:M3U_World_4K",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0QtspbWWL9ubHehcH7RK9MhQRQek1ZkTGAQVfLn_CLw&s=10" provider="fb:M3U_World_4K",Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCBAJP5UrQ35X0r5v7yDgV_ZP-UCqgahszYS0NEDtTDQ&s=10" provider="fb:M3U_World_4K",Rtv
+https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyoqQDMnYevzh3v2FsbCKfDsRcdl-vtldaxSMFw_iH7Q&s=10" provider="fb:M3U_World_4K",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0qIAUYjSjznSGb41vZ6J4daotHSjJQgu_5DvjiMwNg&s=10" provider="fb:M3U_World_4K",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR29W4y35OojIJuA-OP_DWeOC0qRC3AcG2WvPKbQeO3Rw&s=10" provider="fb:M3U_World_4K",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="G TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8wijr6xXHkZs6XJ7Wq3a1ri4ysy0_XL4BjOEvNqZfw&s=10" provider="fb:M3U_World_4K",G TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jolsha Bangla BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sloeWHPXWsSJv3L09U4WB9Zgtl4JC-vgk0F34fEhFw&s" provider="fb:M3U_World_4K",Jolsha Bangla BD
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvckA8rs89NGbNEwtqOshNGXyn5rv2FVzgL7EAyGfgwg&s=10" provider="fb:M3U_World_4K",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9sKT7acIXH7yvztBxA8JSOHcEZRYw32dR2h4t5UUUqw&s=10" provider="fb:M3U_World_4K",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu0ntDDlGND_VMI7DRODcO7k5m7mWDshp_OXcf9l9iEw&s=10" provider="fb:M3U_World_4K",Ekushey TV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkx7xzCcjEhXg0bBT8LMmpqP9SJN8vegCna180ygRt_w&s" provider="fb:M3U_World_4K",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Nagorik TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Q2Eyyr4xLsbFunDFMM0Mp1JTZv-Ggt0GdJ3zs8bZDg&s=10" provider="fb:M3U_World_4K",Nagorik TV
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFGyxM2vGDKJQtNXk3dlWrPcklTmjR1tgV9uYvnWC5DA&s=10" provider="fb:M3U_World_4K",Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8#fb:M3U_World_4K
+

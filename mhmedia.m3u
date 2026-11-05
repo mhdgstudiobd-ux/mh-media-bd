@@ -63,6 +63,14 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#fb:M3U_World_4K
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Bijoy Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6GkEsCsMvfmirHlgSMjckaKCMLddcoe0-hx5YnCk9A&s=10" provider="fb:M3U_World_4K",Bijoy Tv
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#fb:M3U_World_4K
+
+#EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgXt1ntnr9eMdU9Rj8nHiOKwh3n_u4quIHbpoKoZC9A&s=10" provider="fb:M3U_World_4K",Cartoon Network HD
+http://209.131.122.36:25461/iptvgood/101011/4038?token=cFNaUHRVRDJXQ2hyc20z#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t-oaaW3whIbNZd3yvSLDc7C74wNMfkU95QKQcqFklw&s=10" provider="fb:M3U_World_4K",Nick
+http://188.113.190.12/43/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsYE2ND1s04EwEB8yNgU9qqMexxPLCwvVomQeHuTStQ&s=10" provider="fb:M3U_World_4K",Sony Yay
+https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDKSXYHaloQbuawJrG1NBJxAAFN9Wm6PeA95Dctfavg&s=10" provider="fb:M3U_World_4K",Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_k5jMmEpYEE4YhPqK_mHjAHnDTeq2ENWO9S5M-No-hw&s=10" provider="fb:M3U_World_4K",Discovery HD

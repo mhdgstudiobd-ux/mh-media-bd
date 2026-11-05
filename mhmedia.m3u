@@ -1,12 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4m-hJLX24aJICFKjZqLP_h0GTXbUFMxe4j9VYw1pNKA&s=10" provider="fb:M3U_World_4K",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdpnDbVb7ON6KSbuo5-RM4cuocUBI7O6qVgIydb71qQ&s=10" provider="fb:M3U_World_4K",Jalsha Movies
+http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yUI1xsHTc72hP1UeF7xfeRBD2fqjv6cBOrRtpkbDIg&s=10" provider="fb:M3U_World_4K",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IqdN_ZEQCg2V7b218MDu1RgfCr965yxCuL8fe485OA&s=10" provider="fb:M3U_World_4K",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo2Ij_Yq9tQtSO5Wk63-v4bAE48lEUiZKuzqiNeHqTw&s=10" provider="fb:M3U_World_4K",Sony Aath
 http://103.135.253.32:8080/SONY_AATH/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWCq9jQHmuizXSoN8vG69fsMStGsGx6CWXeZ2ecnjxw&s=10" provider="fb:M3U_World_4K",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS662IaFzJxAUJckOjUW_iiXAYgnMNNlpFMPdHc-v6OrA&s" provider="fb:M3U_World_4K",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNSqbxB7XXUrJMbH_LRp_INg4DQTi-dZlKqFCvIrGEg&s=10" provider="fb:M3U_World_4K",Sony Max 2
@@ -17,8 +22,8 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8#fb:M3U_World_4K
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrng0JG1WcpuuNBTEuca2D5RcyDFYyQSa-gvduPgYuGQ&s=10" provider="fb:M3U_World_4K",Zee Cinema HD
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWCq9jQHmuizXSoN8vG69fsMStGsGx6CWXeZ2ecnjxw&s=10" provider="fb:M3U_World_4K",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+
+
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUGYQ-jWQU_CN_r-P755nZm5pLwoog4xN9GSDZh6Hvg&s=10" provider="fb:M3U_World_4K",Somoy TV
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="DBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeGSiOE7TGnOOsscUfB-EEnzKHULyir5TzXe8shRbDQ&s=10" provider="fb:M3U_World_4K",DBC News HD
@@ -63,15 +68,36 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#fb:M3U_World_4K
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Bijoy Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6GkEsCsMvfmirHlgSMjckaKCMLddcoe0-hx5YnCk9A&s=10" provider="fb:M3U_World_4K",Bijoy Tv
 https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFjzmLOedK-vsFmNnxfpbgD1k3GkdxKr9O6kXCmxHAg&s=10" provider="fb:M3U_World_4K",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10" provider="fb:M3U_World_4K",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Al Quran Al Kareem" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC97e2lCthvntOU7LrteJ_OJ1rcSs-HX6k_lrznVKxBQ&s=10" provider="fb:M3U_World_4K",Al Quran Al Kareem
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRks30URTYEdwMbv0OdPeVkksyLQSNrUW6lVrZG9ZrqBQ&s=10" provider="fb:M3U_World_4K",Peace TV Bangla
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8#fb:M3U_World_4K
 
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgXt1ntnr9eMdU9Rj8nHiOKwh3n_u4quIHbpoKoZC9A&s=10" provider="fb:M3U_World_4K",Cartoon Network HD
-http://209.131.122.36:25461/iptvgood/101011/4038?token=cFNaUHRVRDJXQ2hyc20z#fb:M3U_World_4K
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_t-oaaW3whIbNZd3yvSLDc7C74wNMfkU95QKQcqFklw&s=10" provider="fb:M3U_World_4K",Nick
-http://188.113.190.12/43/index.m3u8#fb:M3U_World_4K
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6848/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Yay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFsYE2ND1s04EwEB8yNgU9qqMexxPLCwvVomQeHuTStQ&s=10" provider="fb:M3U_World_4K",Sony Yay
 https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWE5QVHuV2M6obXx4ov2isi75pslyk6jHOCA1pVhRiYQ&s=10" provider="fb:M3U_World_4K",Pogo
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvizZHhX9Jw4gNr5kakS4Z5KkukAF1WQksm9MHkWrTEQ&s" provider="fb:M3U_World_4K",Discovery Kids
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8#fb:M3U_World_4K
 
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsDKSXYHaloQbuawJrG1NBJxAAFN9Wm6PeA95Dctfavg&s=10" provider="fb:M3U_World_4K",Animal Planet HD
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_k5jMmEpYEE4YhPqK_mHjAHnDTeq2ENWO9S5M-No-hw&s=10" provider="fb:M3U_World_4K",Discovery HD
 http://103.135.253.32:8080/DISCOVERY/index.m3u8#fb:M3U_World_4K
+
+
+#EXTINF:-1 tvg-name="Zoom Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXZGvMuZzDHq6Zd18tiYFB_7t4fT2Z8Rziitr0yABRRw&s=10" provider="fb:M3U_World_4K",Zoom Music
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/9d74044c-182f-48d7-9eeb-2616a58af510:TPE2/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCjAm7eH0QyVnu7oOUMbmq23b4KZXMqXbU9c1STHBCg&s=10" provider="fb:M3U_World_4K",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJAHbhrwBprS7s4PP3peOMLIzJyRhvveqkDvR8J8Oa3A&s=10" provider="fb:M3U_World_4K",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8#fb:M3U_World_4K
+

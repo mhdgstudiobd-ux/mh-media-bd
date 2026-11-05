@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4m-hJLX24aJICFKjZqLP_h0GTXbUFMxe4j9VYw1pNKA&s=10" provider="fb:M3U_World_4K",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yUI1xsHTc72hP1UeF7xfeRBD2fqjv6cBOrRtpkbDIg&s=10" provider="fb:M3U_World_4K",Zee Bangla HD
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo2Ij_Yq9tQtSO5Wk63-v4bAE48lEUiZKuzqiNeHqTw&s=10" provider="fb:M3U_World_4K",Sony Aath
+http://103.135.253.32:8080/SONY_AATH/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS662IaFzJxAUJckOjUW_iiXAYgnMNNlpFMPdHc-v6OrA&s" provider="fb:M3U_World_4K",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrng0JG1WcpuuNBTEuca2D5RcyDFYyQSa-gvduPgYuGQ&s=10" provider="fb:M3U_World_4K",Zee Cinema HD
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8#fb:M3U_World_4K

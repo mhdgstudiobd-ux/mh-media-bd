@@ -8,4 +8,16 @@ http://103.135.253.32:8080/SONY_AATH/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS662IaFzJxAUJckOjUW_iiXAYgnMNNlpFMPdHc-v6OrA&s" provider="fb:M3U_World_4K",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrng0JG1WcpuuNBTEuca2D5RcyDFYyQSa-gvduPgYuGQ&s=10" provider="fb:M3U_World_4K",Zee Cinema HD
-https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8#fb:M3U_World_4K
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUGYQ-jWQU_CN_r-P755nZm5pLwoog4xN9GSDZh6Hvg&s=10" provider="fb:M3U_World_4K",Somoy TV
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeGSiOE7TGnOOsscUfB-EEnzKHULyir5TzXe8shRbDQ&s=10" provider="fb:M3U_World_4K",DBC News HD
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5ee87ITTmKVizHz64g5yB8aYg-m5F-YMsRm1jVDL-g&s=10" provider="fb:M3U_World_4K",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpUTKf0uZasQbbG_6Z_XNVQFEbQpqHoN8r1dF7PzFPQ&s=10" provider="fb:M3U_World_4K",Ekattor HD
+https://drk6xq0vhn.gpcdn.net/live/ekattor_tv_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Deepto TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfx7Zg83-qrrOitF9NrXQVtIR--iA0Zw86m4Q-XYt1A&s=10" provider="fb:M3U_World_4K",Deepto TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel I HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4q8GYBeX_kh2JyAAEehqQiMrl0AKP9J7mWU9tpt2HquAHXGqUWwR4A&s" provider="fb:M3U_World_4K",Channel I HD
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#fb:M3U_World_4K

@@ -3,15 +3,23 @@
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4m-hJLX24aJICFKjZqLP_h0GTXbUFMxe4j9VYw1pNKA&s=10" group-title="Live TV",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdpnDbVb7ON6KSbuo5-RM4cuocUBI7O6qVgIydb71qQ&s=10" group-title="Live TV",Jalsha Movies
-http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8#fb:M3U_World_4K
-#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yUI1xsHTc72hP1UeF7xfeRBD2fqjv6cBOrRtpkbDIg&s=10" group-title="Live TV",Zee Bangla HD
+https://box.bbaria.net/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla HD (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3yUI1xsHTc72hP1UeF7xfeRBD2fqjv6cBOrRtpkbDIg&s=10" group-title="Live TV",Zee Bangla HD
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo2Ij_Yq9tQtSO5Wk63-v4bAE48lEUiZKuzqiNeHqTw&s=10" group-title="Live TV",Sony Aath
-http://103.135.253.32:8080/SONY_AATH/index.m3u8#fb:M3U_World_4K
+hhttps://stream.ottplus.live/live/sony_aath_abr/live/sony_c1kn7tv9qm3lx5w/chunks.m3u8
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWCq9jQHmuizXSoN8vG69fsMStGsGx6CWXeZ2ecnjxw&s=10" group-title="Live TV",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS662IaFzJxAUJckOjUW_iiXAYgnMNNlpFMPdHc-v6OrA&s" group-title="Live TV",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Hindi Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S1OUqXeDeCvknb71ztNtCwEeWUjPF03pbYmOCCWkVg&s=10" group-title="Live TV",Hindi Movie
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="B4j" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWpQwEMG6Y7xEjWE6kWm9llbDixWYj78kgqBxswkyvA&s=10" group-title="Live TV",B4j
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-name="B4u Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXGDo8Q8n5qA2ofYqQL-Mr-3P0V8rIlRKdSOjXYnSIg&s" group-title="Live TV",B4u Movie
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-name="Gold Mines Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIjphWgO4ZquqMTVsTyrvglSRBwuObybdnVfO3gN4tKA&s" group-title="Live TV",Gold Mines Movies
 https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Gold Mines Bollywood" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoJ73dJQYHc4pK9AFHuq_SbuiRENe5B7GFdNbp57OMQ&s=10" group-title="Live TV",Gold Mines Bollywood
@@ -20,6 +28,8 @@ https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8#fb:M3U_World_4K
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrng0JG1WcpuuNBTEuca2D5RcyDFYyQSa-gvduPgYuGQ&s=10" group-title="Live TV",Zee Cinema HD
 http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUGYQ-jWQU_CN_r-P755nZm5pLwoog4xN9GSDZh6Hvg&s=10" group-title="Live TV",Sananda Tv
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDUGYQ-jWQU_CN_r-P755nZm5pLwoog4xN9GSDZh6Hvg&s=10" group-title="Live TV",Somoy TV
 https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="DBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJeGSiOE7TGnOOsscUfB-EEnzKHULyir5TzXe8shRbDQ&s=10" group-title="Live TV",DBC News HD
@@ -166,8 +176,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla (576p)
 http://103.151.60.162:2122/play/a011/index.m3u8?hls
-#EXTINF:-1 tvg-name="Zee Bangla HD (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee Bangla HD (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Sonar (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Entertainment",Zee Bangla Sonar (576p)
 http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Entertainment Television HD (1080p)

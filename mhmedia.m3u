@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWCq9jQHmuizXSoN8vG69fsMStGsGx6CWXeZ2ecnjxw&s=10" group-title="Live TV",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MatribhumiTV.bd@HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg",Matribhumi TV (720p)
+http://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-name="Hindi Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S1OUqXeDeCvknb71ztNtCwEeWUjPF03pbYmOCCWkVg&s=10" group-title="Live TV",Hindi Movie
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="B4j" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScWpQwEMG6Y7xEjWE6kWm9llbDixWYj78kgqBxswkyvA&s=10" group-title="Live TV",B4j

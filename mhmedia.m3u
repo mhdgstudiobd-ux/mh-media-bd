@@ -377,12 +377,6 @@ https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://i.postimg.cc/QMpDcHc2/20260918-111823.png" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="SPORTS ⚽",A Sports
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://i.postimg.cc/KYnbtRt0/20260918-111645.png" group-title="SPORTS ⚽",Willow Sports
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR%20SPORTS%202%20HD.png" group-title="SPORTS ⚽",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-name="EN | Vevo Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Vevo2016.svg" group-title="𝐌𝐮𝐬𝐢𝐜 🎶",EN | Vevo Pop
 https://d2n3779oy6efpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5rxuagztow0k3/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel 1 TV" tvg-logo="https://i.postimg.cc/QdKhx6tn/20260918-110445.png" group-title="Bangladesh",Channel 1 TV
@@ -405,3 +399,10 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m
 https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49
 #EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi (1080p)
 https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://i.postimg.cc/0Npv7bpg/20260918-111738.png" group-title="SPORTS ⚽",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://i.postimg.cc/KYnbtRt0/20260918-111645.png" group-title="SPORTS ⚽",Willow Sports
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://go4.pw/ASIA/INDIAN/STAR%20SPORTS%202%20HD.png" group-title="SPORTS ⚽",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
